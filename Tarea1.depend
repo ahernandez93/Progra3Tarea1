@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1405488199 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/Evaluar.cpp
+	<iostream>
+	<queue>
+
+1405490156 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/main.cpp
+	"Evaluador.h"
+	<iostream>
+	<queue>
+
+1405487385 /home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/Evaluar.cpp
+	<iostream>
+	<queue>
+
+1405490187 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/Evaluador.cpp
+	"Evaluador.h"
+
+1405489166 /home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/Evaluador.h
+	<iostream>
+	<queue>
+
+1412493985 source:/home/turupawn/Projects/Codeblocks/Clases/Estructura/Tarea1/main.cpp
+	"Evaluador.h"
+	<iostream>
+	<stack>
+
+1412493617 /home/turupawn/Projects/Codeblocks/Clases/Estructura/Tarea1/Evaluador.h
+	<iostream>
+	<stack>
+
+1412493650 source:/home/turupawn/Projects/Codeblocks/Clases/Estructura/Tarea1/Evaluador.cpp
+	"Evaluador.h"
+
+1412577298 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3Ceutec/Tarea1/Evaluador.cpp
+	"Evaluador.h"
+
+1412576023 /home/turupawn/Projects/Codeblocks/Clases/Progra3Ceutec/Tarea1/Evaluador.h
+	<iostream>
+	<stack>
+
+1412577429 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3Ceutec/Tarea1/main.cpp
+	"Evaluador.h"
+	<iostream>
+
+1430262220 source:c:\users\allan\documents\github\progra3tarea1\evaluador.cpp
+	"Evaluador.h"
+
+1430262220 c:\users\allan\documents\github\progra3tarea1\evaluador.h
+	<iostream>
+	<stack>
+
+1430337590 source:c:\users\allan\documents\github\progra3tarea1\main.cpp
+	"Evaluador.h"
+	<iostream>
+
+1430262222 source:e:\progra3tarea1\evaluador.cpp
+	"Evaluador.h"
+
+1430262222 e:\progra3tarea1\evaluador.h
+	<iostream>
+	<stack>
+
+1430338698 source:e:\progra3tarea1\main.cpp
+	"Evaluador.h"
+	<iostream>
+
+1430262222 source:c:\users\allan\desktop\progra3tarea1\evaluador.cpp
+	"Evaluador.h"
+
+1430262222 c:\users\allan\desktop\progra3tarea1\evaluador.h
+	<iostream>
+	<stack>
+
+1430338698 source:c:\users\allan\desktop\progra3tarea1\main.cpp
+	"Evaluador.h"
+	<iostream>
+
